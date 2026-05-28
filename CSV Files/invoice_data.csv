@@ -1,0 +1,21 @@
+invoice_number,invoice_date,supplier_id,supplier_name,amount_gbp,approved_by,works_reference,payment_date,fraud_flag,fraud_category
+INV-0156,12/04/2025,TCS-003,Birchwood Timber,4200,E-002,WR-112,26/04/2025,1,Weekend Invoice
+INV-0178,23/04/2025,TCS-007,Mercer Electrical,6500,E-003,WR-118,07/05/2025,0,Clean
+INV-0198,04/05/2025,TCS-005,Greenfield Supplies,3800,E-001,WR-124,18/05/2025,1,Weekend Invoice
+INV-0210,15/05/2025,TCS-011,Ridgeway Materials,9500,E-004,WR-130,29/05/2025,1,Threshold Manipulation
+INV-0234,07/06/2025,TCS-003,Birchwood Timber,2100,E-002,WR-135,21/06/2025,1,Weekend Invoice
+INV-0267,19/06/2025,TCS-009,Hartwell Civils,18500,E-006,WR-141,03/07/2025,1,Mandate Fraud
+INV-0281,30/06/2025,TCS-007,Mercer Electrical,9200,E-003,WR-145,14/07/2025,1,Threshold Manipulation
+INV-0287,14/03/2025,TCS-014,Apex Building Solutions,23500,E-005,WR-098,28/03/2025,1,Fictitious Supplier
+INV-0301,10/07/2025,TCS-005,Greenfield Supplies,9750,E-001,WR-150,24/07/2025,1,Authorisation Limit Breach
+INV-0318,24/07/2025,TCS-009,Hartwell Civils,22400,E-006,WR-156,07/08/2025,1,Mandate Fraud
+INV-0334,05/08/2025,TCS-011,Ridgeway Materials,9850,E-004,WR-161,19/08/2025,1,Threshold Manipulation
+INV-0341,14/08/2025,TCS-007,Mercer Electrical,8750,E-003,WR-166,28/08/2025,1,Duplicate Invoice
+INV-0342,17/08/2025,TCS-007,Mercer Electrical,8900,E-003,WR-166,31/08/2025,1,Duplicate Invoice
+INV-0367,02/09/2025,TCS-009,Hartwell Civils,20850,E-006,WR-172,16/09/2025,1,Mandate Fraud
+INV-0389,18/09/2025,TCS-003,Birchwood Timber,9400,E-002,WR-178,02/10/2025,1,Threshold Manipulation
+INV-0401,03/10/2025,TCS-005,Greenfield Supplies,9600,E-001,WR-183,17/10/2025,1,Threshold Manipulation
+INV-0412,15/10/2025,TCS-011,Ridgeway Materials,34200,E-004,WR-188,29/10/2025,1,Authorisation Limit Breach
+INV-0428,29/10/2025,TCS-007,Mercer Electrical,5300,E-003,WR-193,12/11/2025,0,Clean
+INV-0445,12/11/2025,TCS-003,Birchwood Timber,9900,E-002,WR-198,26/11/2025,1,Threshold Manipulation
+INV-0461,27/11/2025,TCS-009,Hartwell Civils,9700,E-006,WR-204,11/12/2025,1,Threshold Manipulation

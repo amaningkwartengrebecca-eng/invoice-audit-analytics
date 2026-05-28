@@ -1,0 +1,7 @@
+"supplier_id","supplier_name","registration_date","bank_detail_change_date","contact_name","status"
+"TCS-003","Birchwood Timber","2019-03-12","","James Hartley","Active"
+"TCS-005","Greenfield Supplies","2020-08-07","","Sarah Nkomo","Active"
+"TCS-007","Mercer Electrical","2018-01-15","","David Mercer","Active"
+"TCS-009","Hartwell Civils","2017-06-22","2025-09-02","Paul Hartwell","Active"
+"TCS-011","Ridgeway Materials","2021-11-03","","Claire Ridgeway","Active"
+"TCS-014","Apex Building Solutions","2025-03-14","","Unknown","Under Review"
