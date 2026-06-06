@@ -1,4 +1,4 @@
-# Project 1 — Vendor Fraud Detection: Forensic Analysis Report
+# Vendor Fraud Detection: Forensic Analysis Report
 **Thornfield Group | Internal Forensic Audit | April–November 2025**
 
 ---
@@ -125,7 +125,7 @@ A formal investigation into all implicated employees with subsequent restructuri
 
 ## Conclusion
 
-This investigation identified not only individual fraud instances but a coordinated escalation pattern across multiple suppliers, concentrated in Q3, with evidence of a potential insider-supplier relationship in the highest value transaction. The root cause is a systemic approval controls weakness rather than isolated misconduct. The recommended controls, if fully implemented, project total annual fraud prevention of £365,285 against a one-time restructure cost of £20,000.
+This investigation identified not only individual fraud instances but also coordinated escalation pattern across multiple suppliers, concentrated in Q3, with evidence of a potential insider-supplier relationship in the highest value transaction. The root cause is a systemic approval controls weakness rather than isolated misconduct. The recommended controls, if fully implemented, would be to project total annual fraud prevention of £365,285 against a one-time restructure cost of £20,000.
 
 ---
 
