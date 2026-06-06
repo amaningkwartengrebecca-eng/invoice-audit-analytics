@@ -27,7 +27,7 @@ Thornfield Group identified unusual activity within the procurement team alongsi
 
 Thornfield Group's procurement function has a systemic controls failure. The one-to-one employee-to-supplier structure has eliminated cross-approval oversight entirely, creating an environment where six distinct fraud mechanisms operated simultaneously across eight months without internal detection. A total of £224,100 of capital is at risk across 18 of the 20 invoices reviewed, out of £235,900 total capital reviewed, largely concentrated in Q3 and Q4 of the year 2025.
 
-![Executive Summary Dashboard](screenshots/page1_executive_summary.png)
+![Executive Dashboard (page 1)](images/ExecutiveDashboard.png)
 
 ---
 
@@ -105,7 +105,7 @@ The following findings require further investigation beyond the scope of this da
 
 ## Recommendations
 
-![Recommendations Dashboard](screenshots/page4_recommendations.png)
+![Recommendations Summary (page 4)](images/Recomendations.png)
 
 All projected figures below are modelled estimates based on historical fraud rates observed across the review period April–November 2025. Actual outcomes may vary materially due to supplier behaviour, personnel changes, macroeconomic conditions and the extent of implementation. These projections should be treated as suggestive only and reviewed quarterly against actual outcomes.
 
