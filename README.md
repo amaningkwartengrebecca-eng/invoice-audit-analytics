@@ -132,5 +132,5 @@ This investigation identified not only individual fraud instances but also coord
 *Analysis conducted using Excel, SQL and Power BI. Full SQL queries, dataset schema and workflow documentation available in this repository.*
 
 ## Demo Video 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/i55wF4jEsHQ)
+https://youtu.be/i55wF4jEsHQ
 
