@@ -131,6 +131,6 @@ This investigation identified not only individual fraud instances but also coord
 
 *Analysis conducted using Excel, SQL and Power BI. Full SQL queries, dataset schema and workflow documentation available in this repository.*
 
-## Live Demo (Video walkthrough)
+## Demo (Video walkthrough)
 [Click here to watch the 60-second dashboard tour](https://github.com/amaningkwartengrebecca-eng/invoice-audit-analytics/blob/main/Power%20BI%20_Demo.mp4)
 
